@@ -44,7 +44,7 @@ and it updates automatically.
 
 | Repository | What it is | Stack |
 | :--- | :--- | :---: |
-| [**Diablo-Class-Randomizer**](https://github.com/ZiMMediaLabs/Diablo-Class-Randomizer) | WinForms class randomizer for every Diablo title | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| [**Diablo-Class-Randomizer**](https://github.com/ZiMMediaLabs/Diablo-Class-Randomizer) | Simple Class Randomizer for every Diablo title | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**WoW-Forever-Randomizer**](https://github.com/ZiMMediaLabs/WoW-Forever-Randomizer) | Alliance / Horde / Either → race → class picker for busy players | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**Location-Converter**](https://github.com/ZiMMediaLabs/Location-Converter) | Windows utility that streamlines Hackmud location copying | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**RRC--Enhanced-Power-Storage**](https://github.com/ZiMMediaLabs/RRC--Enhanced-Power-Storage) | Space Engineers mod for Rock Runner CORP — on Steam Workshop (PC) and mod.io (console) | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
