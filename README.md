@@ -59,7 +59,7 @@ and it updates automatically.
 A VHS horror creature collector. Top-down RPG with grid-based combat: collect monster tapes, break the trance, and take down a media megacorp. Targeting PC and Trimui Brick.
 
 **🧛 MonsterMatch** — *GameMaker Studio 2*
-A pixel-art memory card game featuring 12 classic monsters. [Playable now in the browser](https://zimmedialabs.github.io/MonsterMatch/) — next up: difficulty tiers from Easy to Nightmare and a free itch.io release.
+A pixel-art memory card game featuring 12 classic monsters, 4 difficulty levels, loFi, and local leaderboard. [Playable now in the browser](https://zimmedialabs.github.io/MonsterMatch/) — next up: a free itch.io release.
 
 ---
 
