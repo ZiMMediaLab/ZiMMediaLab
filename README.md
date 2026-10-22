@@ -1,4 +1,4 @@
-# Hey, I'm Zimm 👋
+# What's up, I'm Zimm 👋
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/zimmedia-labs-dark.png">
