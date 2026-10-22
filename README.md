@@ -1,5 +1,10 @@
 # Hey, I'm Zimm 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/zimmedia-labs-dark.png">
+  <img src="assets/zimmedia-labs-light.png" alt="ZiMMedia Labs" width="420">
+</picture>
+
 Solo dev @ ZiMMediaLabs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I’m into.
 
 ---
