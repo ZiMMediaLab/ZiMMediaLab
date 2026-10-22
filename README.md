@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-## What's up, I'm Zimm 👋 | Solo dev @ ZiMMediaLabs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I’m into.
+## What's up, I'm Zimm 👋 <sub>Solo dev @ ZiMMediaLabs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I'm into.</sub>
 
 ---
 
