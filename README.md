@@ -13,10 +13,10 @@ Browser versions of my desktop apps, live on GitHub Pages. No download needed �
 | **🔥 Diablo Class Randomizer** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Picks your next class across Diablo I, II, III, IV, and Immortal. | [**Launch&nbsp;🚀**](https://zimmedialabs.github.io/Diablo-Class-Randomizer/) |
 | **⚔️ WoW Forever Randomizer** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Faction → race → class. Let fate decide your next alt. | [**Launch&nbsp;🚀**](https://zimmedialabs.github.io/WoW-Forever-Randomizer/) |
 | **🧭 Location Converter** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Formats Hackmud locations for your cracker scripts, right in the browser. | [**Launch&nbsp;🚀**](https://zimmedialabs.github.io/Location-Converter/) |
-| **🧛 MonsterMatch** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | 60-second memory card game with 12 hand-drawn pixel monsters. Install it like an app; works offline after your first play. | [**Play&nbsp;🎮**](https://zimmedialabs.github.io/MonsterMatch/) |
+| **🧛 MonsterMatch** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Spooky memory card game with 12 hand-drawn pixel monsters, four difficulties, and bonus items. Install it like an app; works offline after your first play. | [**Play&nbsp;🎮**](https://zimmedialabs.github.io/MonsterMatch/) |
 
 <details>
-<summary><img src="https://img.shields.io/badge/📲_HOW_TO_INSTALL_THESE_APPS-Desktop_%26_Phone_·_Click_to_expand-2EA043?style=for-the-badge&labelColor=5A0FC8" alt="How to install these apps on your desktop or phone - click to expand" /></summary>
+<summary><img align="center" src="https://img.shields.io/badge/📲_HOW_TO_INSTALL_THESE_APPS-Desktop_%26_Phone_·_Click_to_expand-2EA043?style=for-the-badge&labelColor=5A0FC8" alt="How to install these apps on your desktop or phone - click to expand" /></summary>
 
 <br>
 
@@ -44,9 +44,9 @@ and it updates automatically.
 
 | Repository | What it is | Stack |
 | :--- | :--- | :---: |
-| [**Diablo-Class-Randomizer**](https://github.com/ZiMMediaLabs/Diablo-Class-Randomizer) | Simple Class Randomizer for every Diablo title | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| [**Diablo-Class-Randomizer**](https://github.com/ZiMMediaLabs/Diablo-Class-Randomizer) | WinForms app that picks your next class across every Diablo game | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**WoW-Forever-Randomizer**](https://github.com/ZiMMediaLabs/WoW-Forever-Randomizer) | Alliance / Horde / Either → race → class picker for busy players | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
-| [**Location-Converter**](https://github.com/ZiMMediaLabs/Location-Converter) | Windows utility that streamlines Hackmud location copying | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| [**Location-Converter**](https://github.com/ZiMMediaLabs/Location-Converter) | Windows utility that formats Hackmud locations for your cracker scripts | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**RRC--Enhanced-Power-Storage**](https://github.com/ZiMMediaLabs/RRC--Enhanced-Power-Storage) | Space Engineers mod for Rock Runner CORP — on Steam Workshop (PC) and mod.io (console) | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**ZombieSmashers**](https://github.com/ZiMMediaLabs/ZombieSmashers) | The brawler from *Building XNA 2.0 Games*, revived from dead XNA to MonoGame 3.8.6 / .NET 10 with LAN co-op, working shaders, keyboard + mouse, and resizable windows | ![MonoGame](https://img.shields.io/badge/MonoGame-E73C00?style=flat-square&logoColor=white) |
 | [**dodge-the-creeps**](https://github.com/ZiMMediaLabs/dodge-the-creeps) | My first Godot 4 build — the official tutorial, start to finish | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
@@ -59,7 +59,7 @@ and it updates automatically.
 A VHS horror creature collector. Top-down RPG with grid-based combat: collect monster tapes, break the trance, and take down a media megacorp. Targeting PC and Trimui Brick.
 
 **🧛 MonsterMatch** — *GameMaker Studio 2*
-A pixel-art memory card game featuring 12 classic monsters, 4 difficulty levels, loFi, and local leaderboard. [Playable now in the browser](https://zimmedialabs.github.io/MonsterMatch/) — next up: a free itch.io release.
+A pixel-art memory card game with 12 classic monsters. Four difficulties from Easy to Nightmare, bonus items like extra time and a second life, a lofi track for each difficulty, and saved best times. [Playable now in the browser](https://zimmedialabs.github.io/MonsterMatch/) — next up: a free itch.io release.
 
 ---
 
