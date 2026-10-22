@@ -6,7 +6,7 @@
 </p>
 
 ## What's up! I'm Zimm 🤘
-Solo dev @ ZiMMediaLabs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I'm into.
+Solo dev @ ZiMMedia Labs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I'm into.
 
 ---
 
