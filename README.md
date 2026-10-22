@@ -1,7 +1,6 @@
 # Hey, I'm Zimm 👋
 
-Developer, Godot hobbyist, and Husband/Father.
-I build small, practical tools for the hobbies, mods for my crew, pixel-art games with a horror streak, and games I play.
+Solo developer, Godot hobbyist, and App/Web dev. I build small, practical tools for hobbies, games, things I'm interested in.
 
 ---
 
