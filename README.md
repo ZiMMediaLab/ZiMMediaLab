@@ -1,9 +1,11 @@
 # What's up, I'm Zimm 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/zimmedia-labs-dark.png">
-  <img src="assets/zimmedia-labs-light.png" alt="ZiMMedia Labs" width="420">
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/zimmedia-labs-dark.png">
+    <img src="assets/zimmedia-labs-light.png" alt="ZiMMedia Labs" width="420">
+  </picture>
+</p>
 
 Solo dev @ ZiMMediaLabs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I’m into.
 
@@ -21,7 +23,7 @@ Browser versions of my desktop apps, live on GitHub Pages. No download needed �
 | **🧛 MonsterMatch** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Spooky memory card game with 12 hand-drawn pixel monsters, four difficulties, and bonus items. Install it like an app; works offline after your first play. | [**Play&nbsp;🎮**](https://zimmedialabs.github.io/MonsterMatch/) |
 
 <details>
-<summary><img align="center" src="https://img.shields.io/badge/📲_HOW_TO_INSTALL_THESE_APPS-Desktop_%26_Phone_·_Click_to_expand-2EA043?style=for-the-badge&labelColor=5A0FC8" alt="How to install these apps on your desktop or phone - click to expand" /></summary>
+<summary><b>📲 How to install these apps on desktop &amp; phone (click to expand)</b></summary>
 
 <br>
 
