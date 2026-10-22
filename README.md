@@ -1,4 +1,4 @@
-🤘<p>
+<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/zimmedia-labs-dark.png">
     <img src="assets/zimmedia-labs-light.png" alt="ZiMMedia Labs" width="420">
