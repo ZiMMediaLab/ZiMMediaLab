@@ -1,6 +1,6 @@
 # Hey, I'm Zimm 👋
 
-Solo developer, Godot hobbyist, and App/Web dev. I build small, practical tools for hobbies, games, things I'm interested in.
+Solo dev @ ZiMMediaLabs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I’m into.
 
 ---
 
