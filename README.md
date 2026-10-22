@@ -1,5 +1,3 @@
-# What's up, I'm Zimm 👋
-
 <p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/zimmedia-labs-dark.png">
@@ -7,7 +5,7 @@
   </picture>
 </p>
 
-Solo dev @ ZiMMediaLabs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I’m into.
+# What's up, I'm Zimm 👋 | Solo dev @ ZiMMediaLabs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I’m into.
 
 ---
 
