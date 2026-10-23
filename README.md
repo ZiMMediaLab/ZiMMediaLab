@@ -1,12 +1,12 @@
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/zimmedia-labs-dark.png">
-    <img src="assets/zimmedia-labs-light.png" alt="ZiMMedia Labs" width="300">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/zimmedia-lab-dark.png">
+    <img src="assets/zimmedia-lab-light.png" alt="ZiMMedia Lab" width="380">
   </picture>
 </p>
 
 ## What's up! I'm Zimm 🤘
-Solo dev @ ZiMMedia Labs. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I'm into.
+Solo dev @ ZiMMedia Lab. Godot, C#, and web. I build small, practical tools for games, hobbies, and whatever I'm into.
 
 ---
 
