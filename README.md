@@ -12,7 +12,7 @@ Solo dev @ ZiMMedia Lab. Godot, C#, and web. I build small, practical tools for 
 
 ## 🌐 Live Web Apps (PWA)
 
-Browser versions of my desktop apps, live on GitHub Pages. No download needed — open them in any browser, or install them to your desktop or phone home screen.
+My apps, games, and tools, live on GitHub Pages. No download needed — open them in any browser, or install them to your desktop or phone home screen.
 
 | App | Status | What it does | Launch |
 | :--- | :---: | :--- | :---: |
@@ -20,6 +20,7 @@ Browser versions of my desktop apps, live on GitHub Pages. No download needed �
 | **⚔️ WoW Forever Randomizer** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Faction → race → class. Let fate decide your next alt. | [**Launch&nbsp;🚀**](https://zimmedialab.github.io/WoW-Forever-Randomizer/) |
 | **🧭 Location Converter** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Formats Hackmud locations for your cracker scripts, right in the browser. | [**Launch&nbsp;🚀**](https://zimmedialab.github.io/Location-Converter/) |
 | **🧛 MonsterMatch** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Spooky memory card game with 12 hand-drawn pixel monsters, four difficulties, and bonus items. Install it like an app; works offline after your first play. | [**Play&nbsp;🎮**](https://zimmedialab.github.io/MonsterMatch/) |
+| **💎 Raid Counters** | ![PWA Live](https://img.shields.io/badge/LIVE-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white) | Pokémon Scarlet & Violet Tera Raid helper. Pick the boss and its Tera type to get counters that hit hard without being weak to its moves, plus a game plan for solo to 4-player groups. | [**Launch&nbsp;🚀**](https://zimmedialab.github.io/tera-raid-counters/) |
 
 <details>
 <summary><b>📲 How to install these apps on desktop &amp; phone (click to expand)</b></summary>
@@ -53,6 +54,7 @@ and it updates automatically.
 | [**Diablo-Class-Randomizer**](https://github.com/ZiMMediaLab/Diablo-Class-Randomizer) | WinForms app that picks your next class across every Diablo game | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**WoW-Forever-Randomizer**](https://github.com/ZiMMediaLab/WoW-Forever-Randomizer) | Alliance / Horde / Either → race → class picker for busy players | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**Location-Converter**](https://github.com/ZiMMediaLab/Location-Converter) | Windows utility that formats Hackmud locations for your cracker scripts | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
+| [**tera-raid-counters**](https://github.com/ZiMMediaLab/tera-raid-counters) | Tera Raid counter finder for Pokémon Scarlet & Violet. Covers every raid from 1★ to 7★ and ranks picks by damage and by how they take the boss's moves | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 | [**RRC--Enhanced-Power-Storage**](https://github.com/ZiMMediaLab/RRC--Enhanced-Power-Storage) | Space Engineers mod for Rock Runner CORP — on Steam Workshop (PC) and mod.io (console) | ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) |
 | [**ZombieSmashers**](https://github.com/ZiMMediaLab/ZombieSmashers) | The brawler from *Building XNA 2.0 Games*, revived from dead XNA to MonoGame 3.8.6 / .NET 10 with LAN co-op, working shaders, keyboard + mouse, and resizable windows | ![MonoGame](https://img.shields.io/badge/MonoGame-E73C00?style=flat-square&logoColor=white) |
 | [**dodge-the-creeps**](https://github.com/ZiMMediaLab/dodge-the-creeps) | My first Godot 4 build — the official tutorial, start to finish | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white) |
